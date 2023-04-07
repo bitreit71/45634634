@@ -1,0 +1,232 @@
+Uri: http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\ajax\libs\jquery\1\jquery.min.js
+Content Type: text/javascript
+
+Uri: http://btslippopping1.newsalepro.com/
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\index.htm
+Content Type: text/html
+
+Uri: http://btslippopping1.newsalepro.com/ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\ajax.googleapis.com\ajax\libs\jquery\1.11.0\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://btslippopping1.newsalepro.com/css/custom-styles.min.css
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\css\custom-styles.min.css
+Content Type: text/css
+
+Uri: http://btslippopping1.newsalepro.com/css/index.css
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\css\index.css
+Content Type: text/css
+
+Uri: http://btslippopping1.newsalepro.com/css/style.css
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\css\style.css
+Content Type: text/css
+
+Uri: http://btslippopping1.newsalepro.com/favicon.ico
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://btslippopping1.newsalepro.com/img/5zg-6dmboka.jpg
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\5zg-6dmboka.jpg
+Content Type: image/jpeg
+
+Uri: http://btslippopping1.newsalepro.com/img/back.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\back.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/bg-block2-240-1.jpg
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\bg-block2-240-1.jpg
+Content Type: image/jpeg
+
+Uri: http://btslippopping1.newsalepro.com/img/bg-block2-240-2.jpg
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\bg-block2-240-2.jpg
+Content Type: image/jpeg
+
+Uri: http://btslippopping1.newsalepro.com/img/bg-block2-240.jpg
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\bg-block2-240.jpg
+Content Type: image/jpeg
+
+Uri: http://btslippopping1.newsalepro.com/img/bg-block2-480.jpg
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\bg-block2-480.jpg
+Content Type: image/jpeg
+
+Uri: http://btslippopping1.newsalepro.com/img/bg-block2.jpg
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\bg-block2.jpg
+Content Type: image/jpeg
+
+Uri: http://btslippopping1.newsalepro.com/img/bg-content2-240.jpg
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\bg-content2-240.jpg
+Content Type: image/jpeg
+
+Uri: http://btslippopping1.newsalepro.com/img/bg-content2-480.jpg
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\bg-content2-480.jpg
+Content Type: image/jpeg
+
+Uri: http://btslippopping1.newsalepro.com/img/bg-content2.jpg
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\bg-content2.jpg
+Content Type: image/jpeg
+
+Uri: http://btslippopping1.newsalepro.com/img/bg-secong.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\bg-secong.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/bg-slide240-1.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\bg-slide240-1.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/bg-slide240-2.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\bg-slide240-2.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/bg-slide240.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\bg-slide240.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/bg-slide480.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\bg-slide480.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/bg-text4.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\bg-text4.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/bg-text5.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\bg-text5.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/block1-480.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\block1-480.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/block1.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\block1.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/icon-telefon.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\icon-telefon.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/icon1-form.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\icon1-form.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/icon2-form.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\icon2-form.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/img-1.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\img-1.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/img-2.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\img-2.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/img-3.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\img-3.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/img-4.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\img-4.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/img-arrow-1.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\img-arrow-1.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/img-arrow-2.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\img-arrow-2.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/img-arrow.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\img-arrow.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/img-for-block2-right.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\img-for-block2-right.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/img-for-content2.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\img-for-content2.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/img-forma.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\img-forma.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/img-gel.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\img-gel.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/img-text7.jpg
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\img-text7.jpg
+Content Type: image/jpeg
+
+Uri: http://btslippopping1.newsalepro.com/img/img1-block4.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\img1-block4.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/img1-text10.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\img1-text10.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/img2-block4.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\img2-block4.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/img2-text10.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\img2-text10.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/img3-block4.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\img3-block4.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/img3-text10.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\img3-text10.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/img4-block4.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\img4-block4.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/img5-block4.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\img5-block4.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/logo.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\logo.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/next.png
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\next.png
+Content Type: image/png
+
+Uri: http://btslippopping1.newsalepro.com/img/o6aohotbmi4.jpg
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\o6aohotbmi4.jpg
+Content Type: image/jpeg
+
+Uri: http://btslippopping1.newsalepro.com/img/tint_color.jpg
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\tint_color.jpg
+Content Type: image/jpeg
+
+Uri: http://btslippopping1.newsalepro.com/img/w_nbpzbm734.jpg
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\img\w_nbpzbm734.jpg
+Content Type: image/jpeg
+
+Uri: http://btslippopping1.newsalepro.com/js/jquery.maskedinput.min.js
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\js\jquery.maskedinput.min.js
+Content Type: application/javascript
+
+Uri: http://btslippopping1.newsalepro.com/js/js.js
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\js\js.js
+Content Type: application/javascript
+
+Uri: https://mldata.pro/72470/prices.js?product_ids=16977&v=183&
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\72470\prices.js
+Content Type: text/javascript
+
+Uri: https://scriptlibcdn.net/72470/jquery-plugins.js
+File Name: C:\Downloaded Web Sites\btslippopping1.newsalepro.com\72470\jquery-plugins.js
+Content Type: text/javascript
+
